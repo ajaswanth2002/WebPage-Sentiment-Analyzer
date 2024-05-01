@@ -38,4 +38,4 @@ Feel free to [open an issue](https://github.com/your-username/WebPage-Sentiment-
 
 ## 📡 Connect
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-username) for collaboration opportunities.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/naga-venkata-jaswanth-adhikarla-943788228/) for collaboration opportunities.
