@@ -1,0 +1,36 @@
+In the assignment on Sentiment Analysis for Black Coffer web pages, I utilized BeautifulSoup module in Python for data extraction and cleaning. After extracting all paragraph text and cleaning the data, I proceeded with sentiment analysis using the nltk and SentimentIntensityAnalyzer module.
+
+1. Positive and Negative Scores: The SentimentIntensityAnalyzer module was employed to generate positive and negative scores from the text.
+   - Positive Score: The measure of positive sentiment in the text.
+   - Negative Score: The measure of negative sentiment in the text.
+
+2. Polarity and Subjectivity Scores: Using the same module, I obtained polarity and subjectivity scores.
+   - Polarity Score: Indicates the sentiment polarity of the text.
+   - Subjectivity Score: Reflects the subjectivity level of the text.
+
+3. Average Sentence Length: Calculated using the formula:
+   - Average Sentence Length = Total number of words / Total number of sentences
+
+4. Fog Index: Determined using the formula:
+   - Fog Index = 0.4 * (Average Sentence Length + Percentage of Complex Words)
+
+5. Average Number of Words Per Sentence: Computed using:
+   - Average Number of Words Per Sentence = Total number of words / Total number of sentences
+
+6. Word Count: Utilized the word_tokenize module from nltk to count words in the text.
+
+7. Complex Word Count: Employed word_tokenize and cmudict functions from nltk to count complex words.
+
+8. Percentage of Complex Words: Found using:
+   - Percentage of Complex Words = (Complex Words / Total Words) * 100
+
+9. Syllables per Word: Counted syllables using vowels.
+
+10. Personal Pronouns: Counted occurrences of personal pronouns like I, we, my, ours, and us.
+
+Finally, I presented the final output in the notebook, checking for any null values or inconsistencies.
+Please note that the code is designed to run in a Colab notebook environment.
+Thank you for the opportunity to work on this assignment. I look forward to any feedback or further instructions you may have.
+Best regards,
+Jaswanth
+
